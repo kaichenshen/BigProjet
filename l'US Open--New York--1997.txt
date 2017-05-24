@@ -1,0 +1,2553 @@
+Nivea1: B60 VS B199
+/****************Data statistics****************/
+Winner of the Match:B60
+Final Score of the Macth:B60:3--2:B199
+Echange Number: 1877
+Ace Number: 14
+Double Faute Number: 68
+Break Service Number: 50
+/****************Data statistics****************/
+
+Nivea1: B71 VS B110
+/****************Data statistics****************/
+Winner of the Match:B71
+Final Score of the Macth:B71:3--0:B110
+Echange Number: 566
+Ace Number: 8
+Double Faute Number: 50
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea1: B98 VS B160
+/****************Data statistics****************/
+Winner of the Match:B98
+Final Score of the Macth:B98:2--0:B160
+Echange Number: 402
+Ace Number: 5
+Double Faute Number: 34
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea1: B67 VS B76
+/****************Data statistics****************/
+Winner of the Match:B67
+Final Score of the Macth:B67:2--1:B76
+Echange Number: 488
+Ace Number: 4
+Double Faute Number: 44
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea1: B238 VS B9
+/****************Data statistics****************/
+Winner of the Match:B238
+Final Score of the Macth:B238:2--1:B9
+Echange Number: 808
+Ace Number: 3
+Double Faute Number: 59
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea1: B189 VS B64
+/****************Data statistics****************/
+Winner of the Match:B189
+Final Score of the Macth:B189:2--1:B64
+Echange Number: 480
+Ace Number: 4
+Double Faute Number: 52
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea1: B228 VS B232
+/****************Data statistics****************/
+Winner of the Match:B232
+Final Score of the Macth:B228:1--3:B232
+Echange Number: 964
+Ace Number: 10
+Double Faute Number: 50
+Break Service Number: 40
+/****************Data statistics****************/
+
+Nivea1: B57 VS B132
+/****************Data statistics****************/
+Winner of the Match:B132
+Final Score of the Macth:B57:2--3:B132
+Echange Number: 1611
+Ace Number: 8
+Double Faute Number: 98
+Break Service Number: 48
+/****************Data statistics****************/
+
+Nivea1: B94 VS B69
+/****************Data statistics****************/
+Winner of the Match:B94
+Final Score of the Macth:B94:3--2:B69
+Echange Number: 1291
+Ace Number: 12
+Double Faute Number: 67
+Break Service Number: 51
+/****************Data statistics****************/
+
+Nivea1: B197 VS B239
+/****************Data statistics****************/
+Winner of the Match:B239
+Final Score of the Macth:B197:1--3:B239
+Echange Number: 1039
+Ace Number: 11
+Double Faute Number: 61
+Break Service Number: 40
+/****************Data statistics****************/
+
+Nivea1: B79 VS B139
+/****************Data statistics****************/
+Winner of the Match:B79
+Final Score of the Macth:B79:3--2:B139
+Echange Number: 1764
+Ace Number: 6
+Double Faute Number: 79
+Break Service Number: 48
+/****************Data statistics****************/
+
+Nivea1: B108 VS B172
+/****************Data statistics****************/
+Winner of the Match:B172
+Final Score of the Macth:B108:0--2:B172
+Echange Number: 466
+Ace Number: 7
+Double Faute Number: 36
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea1: B236 VS B252
+/****************Data statistics****************/
+Winner of the Match:B252
+Final Score of the Macth:B236:0--2:B252
+Echange Number: 183
+Ace Number: 5
+Double Faute Number: 18
+Break Service Number: 17
+/****************Data statistics****************/
+
+Nivea1: B89 VS B68
+/****************Data statistics****************/
+Winner of the Match:B68
+Final Score of the Macth:B89:1--3:B68
+Echange Number: 1951
+Ace Number: 11
+Double Faute Number: 68
+Break Service Number: 43
+/****************Data statistics****************/
+
+Nivea1: B146 VS B13
+/****************Data statistics****************/
+Winner of the Match:B13
+Final Score of the Macth:B146:1--2:B13
+Echange Number: 843
+Ace Number: 9
+Double Faute Number: 65
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea1: B45 VS B75
+/****************Data statistics****************/
+Winner of the Match:B75
+Final Score of the Macth:B45:0--2:B75
+Echange Number: 294
+Ace Number: 7
+Double Faute Number: 27
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea1: B180 VS B218
+/****************Data statistics****************/
+Winner of the Match:B180
+Final Score of the Macth:B180:3--1:B218
+Echange Number: 1233
+Ace Number: 7
+Double Faute Number: 67
+Break Service Number: 37
+/****************Data statistics****************/
+
+Nivea1: B99 VS B102
+/****************Data statistics****************/
+Winner of the Match:B99
+Final Score of the Macth:B99:2--0:B102
+Echange Number: 379
+Ace Number: 5
+Double Faute Number: 31
+Break Service Number: 19
+/****************Data statistics****************/
+
+Nivea1: B243 VS B105
+/****************Data statistics****************/
+Winner of the Match:B243
+Final Score of the Macth:B243:2--1:B105
+Echange Number: 1016
+Ace Number: 5
+Double Faute Number: 38
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea1: B145 VS B114
+/****************Data statistics****************/
+Winner of the Match:B145
+Final Score of the Macth:B145:2--0:B114
+Echange Number: 421
+Ace Number: 7
+Double Faute Number: 52
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea1: B176 VS B14
+/****************Data statistics****************/
+Winner of the Match:B176
+Final Score of the Macth:B176:2--1:B14
+Echange Number: 1730
+Ace Number: 12
+Double Faute Number: 50
+Break Service Number: 37
+/****************Data statistics****************/
+
+Nivea1: B10 VS B191
+/****************Data statistics****************/
+Winner of the Match:B10
+Final Score of the Macth:B10:3--2:B191
+Echange Number: 1205
+Ace Number: 14
+Double Faute Number: 81
+Break Service Number: 51
+/****************Data statistics****************/
+
+Nivea1: B56 VS B101
+/****************Data statistics****************/
+Winner of the Match:B101
+Final Score of the Macth:B56:1--3:B101
+Echange Number: 1282
+Ace Number: 14
+Double Faute Number: 66
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea1: B97 VS B112
+/****************Data statistics****************/
+Winner of the Match:B97
+Final Score of the Macth:B97:3--1:B112
+Echange Number: 1315
+Ace Number: 9
+Double Faute Number: 87
+Break Service Number: 40
+/****************Data statistics****************/
+
+Nivea1: B39 VS B206
+/****************Data statistics****************/
+Winner of the Match:B206
+Final Score of the Macth:B39:2--3:B206
+Echange Number: 2389
+Ace Number: 11
+Double Faute Number: 68
+Break Service Number: 49
+/****************Data statistics****************/
+
+Nivea1: B59 VS B223
+/****************Data statistics****************/
+Winner of the Match:B223
+Final Score of the Macth:B59:0--3:B223
+Echange Number: 1102
+Ace Number: 6
+Double Faute Number: 59
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea1: B251 VS B244
+/****************Data statistics****************/
+Winner of the Match:B244
+Final Score of the Macth:B251:1--3:B244
+Echange Number: 1010
+Ace Number: 7
+Double Faute Number: 59
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea1: B87 VS B155
+/****************Data statistics****************/
+Winner of the Match:B155
+Final Score of the Macth:B87:0--2:B155
+Echange Number: 481
+Ace Number: 5
+Double Faute Number: 31
+Break Service Number: 22
+/****************Data statistics****************/
+
+Nivea1: B250 VS B41
+/****************Data statistics****************/
+Winner of the Match:B41
+Final Score of the Macth:B250:1--3:B41
+Echange Number: 1141
+Ace Number: 9
+Double Faute Number: 65
+Break Service Number: 39
+/****************Data statistics****************/
+
+Nivea1: B192 VS B179
+/****************Data statistics****************/
+Winner of the Match:B192
+Final Score of the Macth:B192:2--1:B179
+Echange Number: 743
+Ace Number: 6
+Double Faute Number: 62
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea1: B213 VS B237
+/****************Data statistics****************/
+Winner of the Match:B237
+Final Score of the Macth:B213:2--3:B237
+Echange Number: 1603
+Ace Number: 15
+Double Faute Number: 85
+Break Service Number: 55
+/****************Data statistics****************/
+
+Nivea1: B107 VS B190
+/****************Data statistics****************/
+Winner of the Match:B190
+Final Score of the Macth:B107:1--2:B190
+Echange Number: 492
+Ace Number: 7
+Double Faute Number: 43
+Break Service Number: 26
+/****************Data statistics****************/
+
+Nivea1: B19 VS B178
+/****************Data statistics****************/
+Winner of the Match:B19
+Final Score of the Macth:B19:3--1:B178
+Echange Number: 891
+Ace Number: 7
+Double Faute Number: 62
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea1: B247 VS B0
+/****************Data statistics****************/
+Winner of the Match:B0
+Final Score of the Macth:B247:0--2:B0
+Echange Number: 397
+Ace Number: 2
+Double Faute Number: 36
+Break Service Number: 18
+/****************Data statistics****************/
+
+Nivea1: B51 VS B167
+/****************Data statistics****************/
+Winner of the Match:B51
+Final Score of the Macth:B51:3--1:B167
+Echange Number: 1272
+Ace Number: 11
+Double Faute Number: 78
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea1: B147 VS B49
+/****************Data statistics****************/
+Winner of the Match:B49
+Final Score of the Macth:B147:1--2:B49
+Echange Number: 792
+Ace Number: 4
+Double Faute Number: 61
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B193 VS B203
+/****************Data statistics****************/
+Winner of the Match:B193
+Final Score of the Macth:B193:2--1:B203
+Echange Number: 1080
+Ace Number: 7
+Double Faute Number: 39
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea1: B169 VS B38
+/****************Data statistics****************/
+Winner of the Match:B38
+Final Score of the Macth:B169:2--3:B38
+Echange Number: 2392
+Ace Number: 11
+Double Faute Number: 87
+Break Service Number: 57
+/****************Data statistics****************/
+
+Nivea1: B170 VS B246
+/****************Data statistics****************/
+Winner of the Match:B170
+Final Score of the Macth:B170:3--2:B246
+Echange Number: 1823
+Ace Number: 13
+Double Faute Number: 60
+Break Service Number: 49
+/****************Data statistics****************/
+
+Nivea1: B86 VS B90
+/****************Data statistics****************/
+Winner of the Match:B86
+Final Score of the Macth:B86:3--1:B90
+Echange Number: 1318
+Ace Number: 5
+Double Faute Number: 60
+Break Service Number: 39
+/****************Data statistics****************/
+
+Nivea1: B55 VS B183
+/****************Data statistics****************/
+Winner of the Match:B183
+Final Score of the Macth:B55:2--3:B183
+Echange Number: 2627
+Ace Number: 24
+Double Faute Number: 64
+Break Service Number: 50
+/****************Data statistics****************/
+
+Nivea1: B5 VS B209
+/****************Data statistics****************/
+Winner of the Match:B5
+Final Score of the Macth:B5:3--2:B209
+Echange Number: 2049
+Ace Number: 9
+Double Faute Number: 82
+Break Service Number: 54
+/****************Data statistics****************/
+
+Nivea1: B136 VS B48
+/****************Data statistics****************/
+Winner of the Match:B48
+Final Score of the Macth:B136:0--3:B48
+Echange Number: 607
+Ace Number: 2
+Double Faute Number: 50
+Break Service Number: 27
+/****************Data statistics****************/
+
+Nivea1: B50 VS B163
+/****************Data statistics****************/
+Winner of the Match:B163
+Final Score of the Macth:B50:1--2:B163
+Echange Number: 503
+Ace Number: 5
+Double Faute Number: 47
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea1: B148 VS B106
+/****************Data statistics****************/
+Winner of the Match:B106
+Final Score of the Macth:B148:2--3:B106
+Echange Number: 1980
+Ace Number: 10
+Double Faute Number: 85
+Break Service Number: 56
+/****************Data statistics****************/
+
+Nivea1: B221 VS B226
+/****************Data statistics****************/
+Winner of the Match:B221
+Final Score of the Macth:B221:3--1:B226
+Echange Number: 1354
+Ace Number: 11
+Double Faute Number: 72
+Break Service Number: 43
+/****************Data statistics****************/
+
+Nivea1: B150 VS B143
+/****************Data statistics****************/
+Winner of the Match:B143
+Final Score of the Macth:B150:2--3:B143
+Echange Number: 2239
+Ace Number: 7
+Double Faute Number: 93
+Break Service Number: 55
+/****************Data statistics****************/
+
+Nivea1: B156 VS B230
+/****************Data statistics****************/
+Winner of the Match:B230
+Final Score of the Macth:B156:2--3:B230
+Echange Number: 2216
+Ace Number: 14
+Double Faute Number: 89
+Break Service Number: 52
+/****************Data statistics****************/
+
+Nivea1: B42 VS B254
+/****************Data statistics****************/
+Winner of the Match:B254
+Final Score of the Macth:B42:0--2:B254
+Echange Number: 435
+Ace Number: 4
+Double Faute Number: 51
+Break Service Number: 21
+/****************Data statistics****************/
+
+Nivea1: B30 VS B22
+/****************Data statistics****************/
+Winner of the Match:B30
+Final Score of the Macth:B30:2--1:B22
+Echange Number: 1013
+Ace Number: 9
+Double Faute Number: 51
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea1: B173 VS B235
+/****************Data statistics****************/
+Winner of the Match:B173
+Final Score of the Macth:B173:3--2:B235
+Echange Number: 1673
+Ace Number: 11
+Double Faute Number: 94
+Break Service Number: 53
+/****************Data statistics****************/
+
+Nivea1: B125 VS B31
+/****************Data statistics****************/
+Winner of the Match:B31
+Final Score of the Macth:B125:1--2:B31
+Echange Number: 1261
+Ace Number: 10
+Double Faute Number: 60
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B47 VS B212
+/****************Data statistics****************/
+Winner of the Match:B212
+Final Score of the Macth:B47:2--3:B212
+Echange Number: 2380
+Ace Number: 11
+Double Faute Number: 86
+Break Service Number: 53
+/****************Data statistics****************/
+
+Nivea1: B120 VS B153
+/****************Data statistics****************/
+Winner of the Match:B153
+Final Score of the Macth:B120:1--2:B153
+Echange Number: 1117
+Ace Number: 7
+Double Faute Number: 60
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea1: B151 VS B202
+/****************Data statistics****************/
+Winner of the Match:B202
+Final Score of the Macth:B151:0--3:B202
+Echange Number: 892
+Ace Number: 11
+Double Faute Number: 53
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B25 VS B1
+/****************Data statistics****************/
+Winner of the Match:B25
+Final Score of the Macth:B25:2--0:B1
+Echange Number: 504
+Ace Number: 4
+Double Faute Number: 34
+Break Service Number: 25
+/****************Data statistics****************/
+
+Nivea1: B21 VS B58
+/****************Data statistics****************/
+Winner of the Match:B58
+Final Score of the Macth:B21:1--2:B58
+Echange Number: 892
+Ace Number: 10
+Double Faute Number: 42
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea1: B220 VS B181
+/****************Data statistics****************/
+Winner of the Match:B181
+Final Score of the Macth:B220:2--3:B181
+Echange Number: 2352
+Ace Number: 16
+Double Faute Number: 91
+Break Service Number: 54
+/****************Data statistics****************/
+
+Nivea1: B233 VS B24
+/****************Data statistics****************/
+Winner of the Match:B24
+Final Score of the Macth:B233:2--3:B24
+Echange Number: 2342
+Ace Number: 13
+Double Faute Number: 95
+Break Service Number: 54
+/****************Data statistics****************/
+
+Nivea1: B225 VS B27
+/****************Data statistics****************/
+Winner of the Match:B225
+Final Score of the Macth:B225:2--1:B27
+Echange Number: 1044
+Ace Number: 7
+Double Faute Number: 60
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B61 VS B84
+/****************Data statistics****************/
+Winner of the Match:B84
+Final Score of the Macth:B61:0--2:B84
+Echange Number: 231
+Ace Number: 7
+Double Faute Number: 28
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea1: B92 VS B214
+/****************Data statistics****************/
+Winner of the Match:B214
+Final Score of the Macth:B92:1--2:B214
+Echange Number: 730
+Ace Number: 7
+Double Faute Number: 43
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea1: B81 VS B171
+/****************Data statistics****************/
+Winner of the Match:B171
+Final Score of the Macth:B81:1--3:B171
+Echange Number: 1322
+Ace Number: 10
+Double Faute Number: 62
+Break Service Number: 39
+/****************Data statistics****************/
+
+Nivea1: B103 VS B73
+/****************Data statistics****************/
+Winner of the Match:B73
+Final Score of the Macth:B103:0--2:B73
+Echange Number: 241
+Ace Number: 4
+Double Faute Number: 29
+Break Service Number: 16
+/****************Data statistics****************/
+
+Nivea1: B109 VS B245
+/****************Data statistics****************/
+Winner of the Match:B109
+Final Score of the Macth:B109:2--1:B245
+Echange Number: 959
+Ace Number: 8
+Double Faute Number: 54
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea1: B204 VS B134
+/****************Data statistics****************/
+Winner of the Match:B204
+Final Score of the Macth:B204:3--0:B134
+Echange Number: 585
+Ace Number: 6
+Double Faute Number: 44
+Break Service Number: 25
+/****************Data statistics****************/
+
+Nivea1: B18 VS B140
+/****************Data statistics****************/
+Winner of the Match:B140
+Final Score of the Macth:B18:0--3:B140
+Echange Number: 952
+Ace Number: 9
+Double Faute Number: 50
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea1: B26 VS B185
+/****************Data statistics****************/
+Winner of the Match:B185
+Final Score of the Macth:B26:0--2:B185
+Echange Number: 434
+Ace Number: 4
+Double Faute Number: 34
+Break Service Number: 22
+/****************Data statistics****************/
+
+Nivea1: B255 VS B154
+/****************Data statistics****************/
+Winner of the Match:B154
+Final Score of the Macth:B255:1--3:B154
+Echange Number: 1401
+Ace Number: 12
+Double Faute Number: 60
+Break Service Number: 37
+/****************Data statistics****************/
+
+Nivea1: B36 VS B113
+/****************Data statistics****************/
+Winner of the Match:B36
+Final Score of the Macth:B36:2--1:B113
+Echange Number: 918
+Ace Number: 7
+Double Faute Number: 65
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea1: B53 VS B231
+/****************Data statistics****************/
+Winner of the Match:B231
+Final Score of the Macth:B53:1--3:B231
+Echange Number: 1000
+Ace Number: 10
+Double Faute Number: 64
+Break Service Number: 39
+/****************Data statistics****************/
+
+Nivea1: B195 VS B166
+/****************Data statistics****************/
+Winner of the Match:B166
+Final Score of the Macth:B195:0--3:B166
+Echange Number: 989
+Ace Number: 7
+Double Faute Number: 65
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea1: B205 VS B182
+/****************Data statistics****************/
+Winner of the Match:B182
+Final Score of the Macth:B205:1--2:B182
+Echange Number: 1111
+Ace Number: 7
+Double Faute Number: 59
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B165 VS B224
+/****************Data statistics****************/
+Winner of the Match:B224
+Final Score of the Macth:B165:2--3:B224
+Echange Number: 1812
+Ace Number: 8
+Double Faute Number: 104
+Break Service Number: 53
+/****************Data statistics****************/
+
+Nivea1: B127 VS B207
+/****************Data statistics****************/
+Winner of the Match:B207
+Final Score of the Macth:B127:0--3:B207
+Echange Number: 653
+Ace Number: 4
+Double Faute Number: 54
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B161 VS B62
+/****************Data statistics****************/
+Winner of the Match:B161
+Final Score of the Macth:B161:3--2:B62
+Echange Number: 1955
+Ace Number: 12
+Double Faute Number: 94
+Break Service Number: 53
+/****************Data statistics****************/
+
+Nivea1: B241 VS B200
+/****************Data statistics****************/
+Winner of the Match:B241
+Final Score of the Macth:B241:2--1:B200
+Echange Number: 1244
+Ace Number: 11
+Double Faute Number: 56
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea1: B3 VS B210
+/****************Data statistics****************/
+Winner of the Match:B210
+Final Score of the Macth:B3:1--2:B210
+Echange Number: 668
+Ace Number: 10
+Double Faute Number: 54
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea1: B82 VS B157
+/****************Data statistics****************/
+Winner of the Match:B157
+Final Score of the Macth:B82:0--2:B157
+Echange Number: 261
+Ace Number: 4
+Double Faute Number: 30
+Break Service Number: 18
+/****************Data statistics****************/
+
+Nivea1: B159 VS B93
+/****************Data statistics****************/
+Winner of the Match:B159
+Final Score of the Macth:B159:3--1:B93
+Echange Number: 1544
+Ace Number: 7
+Double Faute Number: 79
+Break Service Number: 43
+/****************Data statistics****************/
+
+Nivea1: B83 VS B133
+/****************Data statistics****************/
+Winner of the Match:B133
+Final Score of the Macth:B83:1--3:B133
+Echange Number: 763
+Ace Number: 9
+Double Faute Number: 53
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B117 VS B222
+/****************Data statistics****************/
+Winner of the Match:B222
+Final Score of the Macth:B117:2--3:B222
+Echange Number: 2436
+Ace Number: 15
+Double Faute Number: 105
+Break Service Number: 60
+/****************Data statistics****************/
+
+Nivea1: B44 VS B144
+/****************Data statistics****************/
+Winner of the Match:B144
+Final Score of the Macth:B44:0--2:B144
+Echange Number: 350
+Ace Number: 1
+Double Faute Number: 37
+Break Service Number: 17
+/****************Data statistics****************/
+
+Nivea1: B188 VS B164
+/****************Data statistics****************/
+Winner of the Match:B188
+Final Score of the Macth:B188:2--0:B164
+Echange Number: 350
+Ace Number: 5
+Double Faute Number: 32
+Break Service Number: 19
+/****************Data statistics****************/
+
+Nivea1: B175 VS B158
+/****************Data statistics****************/
+Winner of the Match:B175
+Final Score of the Macth:B175:2--1:B158
+Echange Number: 706
+Ace Number: 9
+Double Faute Number: 55
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B63 VS B227
+/****************Data statistics****************/
+Winner of the Match:B227
+Final Score of the Macth:B63:1--3:B227
+Echange Number: 955
+Ace Number: 6
+Double Faute Number: 60
+Break Service Number: 32
+/****************Data statistics****************/
+
+Nivea1: B149 VS B12
+/****************Data statistics****************/
+Winner of the Match:B149
+Final Score of the Macth:B149:3--0:B12
+Echange Number: 740
+Ace Number: 8
+Double Faute Number: 62
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea1: B20 VS B116
+/****************Data statistics****************/
+Winner of the Match:B20
+Final Score of the Macth:B20:2--0:B116
+Echange Number: 404
+Ace Number: 4
+Double Faute Number: 37
+Break Service Number: 22
+/****************Data statistics****************/
+
+Nivea1: B234 VS B198
+/****************Data statistics****************/
+Winner of the Match:B234
+Final Score of the Macth:B234:2--0:B198
+Echange Number: 458
+Ace Number: 8
+Double Faute Number: 40
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea1: B248 VS B131
+/****************Data statistics****************/
+Winner of the Match:B248
+Final Score of the Macth:B248:2--0:B131
+Echange Number: 263
+Ace Number: 3
+Double Faute Number: 39
+Break Service Number: 16
+/****************Data statistics****************/
+
+Nivea1: B152 VS B186
+/****************Data statistics****************/
+Winner of the Match:B152
+Final Score of the Macth:B152:2--1:B186
+Echange Number: 1148
+Ace Number: 9
+Double Faute Number: 59
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea1: B240 VS B177
+/****************Data statistics****************/
+Winner of the Match:B177
+Final Score of the Macth:B240:0--2:B177
+Echange Number: 247
+Ace Number: 6
+Double Faute Number: 15
+Break Service Number: 15
+/****************Data statistics****************/
+
+Nivea1: B194 VS B78
+/****************Data statistics****************/
+Winner of the Match:B194
+Final Score of the Macth:B194:2--1:B78
+Echange Number: 685
+Ace Number: 8
+Double Faute Number: 52
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B137 VS B128
+/****************Data statistics****************/
+Winner of the Match:B137
+Final Score of the Macth:B137:2--0:B128
+Echange Number: 486
+Ace Number: 8
+Double Faute Number: 30
+Break Service Number: 26
+/****************Data statistics****************/
+
+Nivea1: B4 VS B35
+/****************Data statistics****************/
+Winner of the Match:B4
+Final Score of the Macth:B4:3--1:B35
+Echange Number: 2046
+Ace Number: 11
+Double Faute Number: 86
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea1: B54 VS B217
+/****************Data statistics****************/
+Winner of the Match:B217
+Final Score of the Macth:B54:1--2:B217
+Echange Number: 735
+Ace Number: 1
+Double Faute Number: 45
+Break Service Number: 27
+/****************Data statistics****************/
+
+Nivea1: B115 VS B129
+/****************Data statistics****************/
+Winner of the Match:B115
+Final Score of the Macth:B115:3--2:B129
+Echange Number: 2393
+Ace Number: 8
+Double Faute Number: 85
+Break Service Number: 53
+/****************Data statistics****************/
+
+Nivea1: B40 VS B208
+/****************Data statistics****************/
+Winner of the Match:B208
+Final Score of the Macth:B40:2--3:B208
+Echange Number: 2561
+Ace Number: 10
+Double Faute Number: 75
+Break Service Number: 50
+/****************Data statistics****************/
+
+Nivea1: B91 VS B122
+/****************Data statistics****************/
+Winner of the Match:B91
+Final Score of the Macth:B91:2--0:B122
+Echange Number: 373
+Ace Number: 5
+Double Faute Number: 36
+Break Service Number: 21
+/****************Data statistics****************/
+
+Nivea1: B37 VS B104
+/****************Data statistics****************/
+Winner of the Match:B37
+Final Score of the Macth:B37:2--0:B104
+Echange Number: 352
+Ace Number: 4
+Double Faute Number: 36
+Break Service Number: 22
+/****************Data statistics****************/
+
+Nivea1: B52 VS B249
+/****************Data statistics****************/
+Winner of the Match:B52
+Final Score of the Macth:B52:2--0:B249
+Echange Number: 415
+Ace Number: 8
+Double Faute Number: 36
+Break Service Number: 25
+/****************Data statistics****************/
+
+Nivea1: B28 VS B65
+/****************Data statistics****************/
+Winner of the Match:B65
+Final Score of the Macth:B28:0--3:B65
+Echange Number: 601
+Ace Number: 5
+Double Faute Number: 36
+Break Service Number: 27
+/****************Data statistics****************/
+
+Nivea1: B141 VS B80
+/****************Data statistics****************/
+Winner of the Match:B141
+Final Score of the Macth:B141:3--0:B80
+Echange Number: 553
+Ace Number: 6
+Double Faute Number: 48
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea1: B2 VS B85
+/****************Data statistics****************/
+Winner of the Match:B2
+Final Score of the Macth:B2:2--1:B85
+Echange Number: 859
+Ace Number: 8
+Double Faute Number: 68
+Break Service Number: 37
+/****************Data statistics****************/
+
+Nivea1: B95 VS B121
+/****************Data statistics****************/
+Winner of the Match:B121
+Final Score of the Macth:B95:0--2:B121
+Echange Number: 315
+Ace Number: 6
+Double Faute Number: 36
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea1: B123 VS B229
+/****************Data statistics****************/
+Winner of the Match:B229
+Final Score of the Macth:B123:0--2:B229
+Echange Number: 319
+Ace Number: 8
+Double Faute Number: 22
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea1: B168 VS B100
+/****************Data statistics****************/
+Winner of the Match:B100
+Final Score of the Macth:B168:0--2:B100
+Echange Number: 345
+Ace Number: 6
+Double Faute Number: 29
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea1: B215 VS B23
+/****************Data statistics****************/
+Winner of the Match:B23
+Final Score of the Macth:B215:0--3:B23
+Echange Number: 750
+Ace Number: 5
+Double Faute Number: 61
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea1: B187 VS B74
+/****************Data statistics****************/
+Winner of the Match:B187
+Final Score of the Macth:B187:3--0:B74
+Echange Number: 909
+Ace Number: 1
+Double Faute Number: 49
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea1: B119 VS B242
+/****************Data statistics****************/
+Winner of the Match:B242
+Final Score of the Macth:B119:0--2:B242
+Echange Number: 282
+Ace Number: 7
+Double Faute Number: 33
+Break Service Number: 19
+/****************Data statistics****************/
+
+Nivea1: B142 VS B118
+/****************Data statistics****************/
+Winner of the Match:B118
+Final Score of the Macth:B142:1--2:B118
+Echange Number: 903
+Ace Number: 7
+Double Faute Number: 59
+Break Service Number: 32
+/****************Data statistics****************/
+
+Nivea1: B138 VS B253
+/****************Data statistics****************/
+Winner of the Match:B138
+Final Score of the Macth:B138:2--1:B253
+Echange Number: 810
+Ace Number: 13
+Double Faute Number: 51
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea1: B184 VS B43
+/****************Data statistics****************/
+Winner of the Match:B184
+Final Score of the Macth:B184:3--0:B43
+Echange Number: 533
+Ace Number: 5
+Double Faute Number: 44
+Break Service Number: 28
+/****************Data statistics****************/
+
+Nivea1: B162 VS B29
+/****************Data statistics****************/
+Winner of the Match:B29
+Final Score of the Macth:B162:2--3:B29
+Echange Number: 1654
+Ace Number: 14
+Double Faute Number: 90
+Break Service Number: 51
+/****************Data statistics****************/
+
+Nivea1: B11 VS B88
+/****************Data statistics****************/
+Winner of the Match:B11
+Final Score of the Macth:B11:3--0:B88
+Echange Number: 678
+Ace Number: 8
+Double Faute Number: 44
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea1: B7 VS B111
+/****************Data statistics****************/
+Winner of the Match:B7
+Final Score of the Macth:B7:2--0:B111
+Echange Number: 317
+Ace Number: 5
+Double Faute Number: 27
+Break Service Number: 17
+/****************Data statistics****************/
+
+Nivea1: B130 VS B201
+/****************Data statistics****************/
+Winner of the Match:B201
+Final Score of the Macth:B130:0--2:B201
+Echange Number: 203
+Ace Number: 6
+Double Faute Number: 25
+Break Service Number: 19
+/****************Data statistics****************/
+
+Nivea1: B46 VS B77
+/****************Data statistics****************/
+Winner of the Match:B77
+Final Score of the Macth:B46:1--3:B77
+Echange Number: 1736
+Ace Number: 7
+Double Faute Number: 74
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea1: B33 VS B135
+/****************Data statistics****************/
+Winner of the Match:B135
+Final Score of the Macth:B33:1--2:B135
+Echange Number: 1023
+Ace Number: 7
+Double Faute Number: 54
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea1: B66 VS B72
+/****************Data statistics****************/
+Winner of the Match:B66
+Final Score of the Macth:B66:3--1:B72
+Echange Number: 1321
+Ace Number: 8
+Double Faute Number: 60
+Break Service Number: 43
+/****************Data statistics****************/
+
+Nivea1: B216 VS B96
+/****************Data statistics****************/
+Winner of the Match:B96
+Final Score of the Macth:B216:0--3:B96
+Echange Number: 694
+Ace Number: 6
+Double Faute Number: 61
+Break Service Number: 28
+/****************Data statistics****************/
+
+Nivea1: B16 VS B211
+/****************Data statistics****************/
+Winner of the Match:B211
+Final Score of the Macth:B16:1--2:B211
+Echange Number: 581
+Ace Number: 7
+Double Faute Number: 65
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea1: B219 VS B124
+/****************Data statistics****************/
+Winner of the Match:B219
+Final Score of the Macth:B219:2--1:B124
+Echange Number: 683
+Ace Number: 9
+Double Faute Number: 69
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea1: B15 VS B8
+/****************Data statistics****************/
+Winner of the Match:B8
+Final Score of the Macth:B15:0--2:B8
+Echange Number: 357
+Ace Number: 6
+Double Faute Number: 30
+Break Service Number: 25
+/****************Data statistics****************/
+
+Nivea1: B32 VS B70
+/****************Data statistics****************/
+Winner of the Match:B70
+Final Score of the Macth:B32:0--2:B70
+Echange Number: 173
+Ace Number: 2
+Double Faute Number: 25
+Break Service Number: 15
+/****************Data statistics****************/
+
+Nivea1: B196 VS B17
+/****************Data statistics****************/
+Winner of the Match:B196
+Final Score of the Macth:B196:2--0:B17
+Echange Number: 334
+Ace Number: 8
+Double Faute Number: 37
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea1: B174 VS B34
+/****************Data statistics****************/
+Winner of the Match:B174
+Final Score of the Macth:B174:3--0:B34
+Echange Number: 719
+Ace Number: 7
+Double Faute Number: 65
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea1: B126 VS B6
+/****************Data statistics****************/
+Winner of the Match:B6
+Final Score of the Macth:B126:2--3:B6
+Echange Number: 1608
+Ace Number: 11
+Double Faute Number: 62
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea2: B225 VS B6
+/****************Data statistics****************/
+Winner of the Match:B6
+Final Score of the Macth:B225:0--2:B6
+Echange Number: 318
+Ace Number: 3
+Double Faute Number: 22
+Break Service Number: 18
+/****************Data statistics****************/
+
+Nivea2: B144 VS B183
+/****************Data statistics****************/
+Winner of the Match:B183
+Final Score of the Macth:B144:0--2:B183
+Echange Number: 240
+Ace Number: 8
+Double Faute Number: 23
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea2: B145 VS B181
+/****************Data statistics****************/
+Winner of the Match:B145
+Final Score of the Macth:B145:2--0:B181
+Echange Number: 266
+Ace Number: 4
+Double Faute Number: 35
+Break Service Number: 21
+/****************Data statistics****************/
+
+Nivea2: B163 VS B51
+/****************Data statistics****************/
+Winner of the Match:B51
+Final Score of the Macth:B163:1--3:B51
+Echange Number: 1497
+Ace Number: 12
+Double Faute Number: 70
+Break Service Number: 45
+/****************Data statistics****************/
+
+Nivea2: B86 VS B214
+/****************Data statistics****************/
+Winner of the Match:B86
+Final Score of the Macth:B86:3--0:B214
+Echange Number: 703
+Ace Number: 6
+Double Faute Number: 53
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea2: B132 VS B97
+/****************Data statistics****************/
+Winner of the Match:B97
+Final Score of the Macth:B132:1--3:B97
+Echange Number: 959
+Ace Number: 9
+Double Faute Number: 61
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea2: B221 VS B71
+/****************Data statistics****************/
+Winner of the Match:B71
+Final Score of the Macth:B221:1--3:B71
+Echange Number: 1063
+Ace Number: 9
+Double Faute Number: 59
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea2: B187 VS B73
+/****************Data statistics****************/
+Winner of the Match:B187
+Final Score of the Macth:B187:3--1:B73
+Echange Number: 1278
+Ace Number: 13
+Double Faute Number: 62
+Break Service Number: 42
+/****************Data statistics****************/
+
+Nivea2: B66 VS B232
+/****************Data statistics****************/
+Winner of the Match:B232
+Final Score of the Macth:B66:0--3:B232
+Echange Number: 630
+Ace Number: 8
+Double Faute Number: 33
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea2: B98 VS B159
+/****************Data statistics****************/
+Winner of the Match:B98
+Final Score of the Macth:B98:2--0:B159
+Echange Number: 235
+Ace Number: 2
+Double Faute Number: 24
+Break Service Number: 16
+/****************Data statistics****************/
+
+Nivea2: B243 VS B58
+/****************Data statistics****************/
+Winner of the Match:B58
+Final Score of the Macth:B243:1--2:B58
+Echange Number: 1012
+Ace Number: 3
+Double Faute Number: 59
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea2: B173 VS B52
+/****************Data statistics****************/
+Winner of the Match:B52
+Final Score of the Macth:B173:1--3:B52
+Echange Number: 810
+Ace Number: 9
+Double Faute Number: 60
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea2: B230 VS B38
+/****************Data statistics****************/
+Winner of the Match:B38
+Final Score of the Macth:B230:2--3:B38
+Echange Number: 2586
+Ace Number: 13
+Double Faute Number: 80
+Break Service Number: 55
+/****************Data statistics****************/
+
+Nivea2: B252 VS B229
+/****************Data statistics****************/
+Winner of the Match:B229
+Final Score of the Macth:B252:1--3:B229
+Echange Number: 1576
+Ace Number: 8
+Double Faute Number: 88
+Break Service Number: 40
+/****************Data statistics****************/
+
+Nivea2: B106 VS B149
+/****************Data statistics****************/
+Winner of the Match:B149
+Final Score of the Macth:B106:0--3:B149
+Echange Number: 847
+Ace Number: 6
+Double Faute Number: 52
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea2: B84 VS B171
+/****************Data statistics****************/
+Winner of the Match:B84
+Final Score of the Macth:B84:2--0:B171
+Echange Number: 330
+Ace Number: 2
+Double Faute Number: 27
+Break Service Number: 21
+/****************Data statistics****************/
+
+Nivea2: B188 VS B224
+/****************Data statistics****************/
+Winner of the Match:B224
+Final Score of the Macth:B188:1--2:B224
+Echange Number: 863
+Ace Number: 10
+Double Faute Number: 63
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea2: B238 VS B177
+/****************Data statistics****************/
+Winner of the Match:B238
+Final Score of the Macth:B238:2--0:B177
+Echange Number: 460
+Ace Number: 9
+Double Faute Number: 72
+Break Service Number: 26
+/****************Data statistics****************/
+
+Nivea2: B141 VS B234
+/****************Data statistics****************/
+Winner of the Match:B234
+Final Score of the Macth:B141:1--3:B234
+Echange Number: 1053
+Ace Number: 16
+Double Faute Number: 66
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea2: B185 VS B11
+/****************Data statistics****************/
+Winner of the Match:B185
+Final Score of the Macth:B185:3--2:B11
+Echange Number: 1952
+Ace Number: 9
+Double Faute Number: 92
+Break Service Number: 57
+/****************Data statistics****************/
+
+Nivea2: B0 VS B99
+/****************Data statistics****************/
+Winner of the Match:B0
+Final Score of the Macth:B0:3--2:B99
+Echange Number: 2616
+Ace Number: 14
+Double Faute Number: 97
+Break Service Number: 57
+/****************Data statistics****************/
+
+Nivea2: B135 VS B154
+/****************Data statistics****************/
+Winner of the Match:B154
+Final Score of the Macth:B135:1--2:B154
+Echange Number: 860
+Ace Number: 9
+Double Faute Number: 60
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea2: B41 VS B94
+/****************Data statistics****************/
+Winner of the Match:B94
+Final Score of the Macth:B41:1--2:B94
+Echange Number: 699
+Ace Number: 4
+Double Faute Number: 62
+Break Service Number: 27
+/****************Data statistics****************/
+
+Nivea2: B152 VS B118
+/****************Data statistics****************/
+Winner of the Match:B152
+Final Score of the Macth:B152:2--1:B118
+Echange Number: 591
+Ace Number: 8
+Double Faute Number: 31
+Break Service Number: 28
+/****************Data statistics****************/
+
+Nivea2: B237 VS B231
+/****************Data statistics****************/
+Winner of the Match:B237
+Final Score of the Macth:B237:2--0:B231
+Echange Number: 247
+Ace Number: 5
+Double Faute Number: 23
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea2: B194 VS B68
+/****************Data statistics****************/
+Winner of the Match:B68
+Final Score of the Macth:B194:0--2:B68
+Echange Number: 226
+Ace Number: 3
+Double Faute Number: 32
+Break Service Number: 15
+/****************Data statistics****************/
+
+Nivea2: B31 VS B29
+/****************Data statistics****************/
+Winner of the Match:B29
+Final Score of the Macth:B31:0--2:B29
+Echange Number: 263
+Ace Number: 9
+Double Faute Number: 27
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea2: B182 VS B5
+/****************Data statistics****************/
+Winner of the Match:B5
+Final Score of the Macth:B182:0--3:B5
+Echange Number: 622
+Ace Number: 7
+Double Faute Number: 42
+Break Service Number: 26
+/****************Data statistics****************/
+
+Nivea2: B140 VS B184
+/****************Data statistics****************/
+Winner of the Match:B184
+Final Score of the Macth:B140:0--2:B184
+Echange Number: 283
+Ace Number: 5
+Double Faute Number: 26
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea2: B161 VS B138
+/****************Data statistics****************/
+Winner of the Match:B138
+Final Score of the Macth:B161:1--3:B138
+Echange Number: 1605
+Ace Number: 5
+Double Faute Number: 76
+Break Service Number: 40
+/****************Data statistics****************/
+
+Nivea2: B180 VS B49
+/****************Data statistics****************/
+Winner of the Match:B180
+Final Score of the Macth:B180:3--0:B49
+Echange Number: 843
+Ace Number: 11
+Double Faute Number: 58
+Break Service Number: 32
+/****************Data statistics****************/
+
+Nivea2: B133 VS B157
+/****************Data statistics****************/
+Winner of the Match:B157
+Final Score of the Macth:B133:0--3:B157
+Echange Number: 626
+Ace Number: 14
+Double Faute Number: 49
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea2: B19 VS B7
+/****************Data statistics****************/
+Winner of the Match:B19
+Final Score of the Macth:B19:3--1:B7
+Echange Number: 844
+Ace Number: 9
+Double Faute Number: 45
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea2: B244 VS B77
+/****************Data statistics****************/
+Winner of the Match:B244
+Final Score of the Macth:B244:2--0:B77
+Echange Number: 190
+Ace Number: 2
+Double Faute Number: 40
+Break Service Number: 17
+/****************Data statistics****************/
+
+Nivea2: B10 VS B13
+/****************Data statistics****************/
+Winner of the Match:B13
+Final Score of the Macth:B10:0--3:B13
+Echange Number: 490
+Ace Number: 6
+Double Faute Number: 52
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea2: B211 VS B121
+/****************Data statistics****************/
+Winner of the Match:B211
+Final Score of the Macth:B211:2--1:B121
+Echange Number: 1164
+Ace Number: 9
+Double Faute Number: 61
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea2: B208 VS B190
+/****************Data statistics****************/
+Winner of the Match:B190
+Final Score of the Macth:B208:2--3:B190
+Echange Number: 1784
+Ace Number: 11
+Double Faute Number: 66
+Break Service Number: 46
+/****************Data statistics****************/
+
+Nivea2: B239 VS B223
+/****************Data statistics****************/
+Winner of the Match:B239
+Final Score of the Macth:B239:2--1:B223
+Echange Number: 966
+Ace Number: 9
+Double Faute Number: 54
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea2: B222 VS B115
+/****************Data statistics****************/
+Winner of the Match:B115
+Final Score of the Macth:B222:0--2:B115
+Echange Number: 336
+Ace Number: 7
+Double Faute Number: 28
+Break Service Number: 25
+/****************Data statistics****************/
+
+Nivea2: B254 VS B96
+/****************Data statistics****************/
+Winner of the Match:B254
+Final Score of the Macth:B254:2--1:B96
+Echange Number: 1283
+Ace Number: 4
+Double Faute Number: 63
+Break Service Number: 37
+/****************Data statistics****************/
+
+Nivea2: B172 VS B219
+/****************Data statistics****************/
+Winner of the Match:B219
+Final Score of the Macth:B172:1--3:B219
+Echange Number: 997
+Ace Number: 8
+Double Faute Number: 68
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea2: B204 VS B65
+/****************Data statistics****************/
+Winner of the Match:B65
+Final Score of the Macth:B204:1--3:B65
+Echange Number: 1743
+Ace Number: 14
+Double Faute Number: 89
+Break Service Number: 44
+/****************Data statistics****************/
+
+Nivea2: B202 VS B25
+/****************Data statistics****************/
+Winner of the Match:B202
+Final Score of the Macth:B202:3--0:B25
+Echange Number: 653
+Ace Number: 5
+Double Faute Number: 44
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea2: B36 VS B192
+/****************Data statistics****************/
+Winner of the Match:B36
+Final Score of the Macth:B36:2--0:B192
+Echange Number: 302
+Ace Number: 6
+Double Faute Number: 40
+Break Service Number: 24
+/****************Data statistics****************/
+
+Nivea2: B241 VS B60
+/****************Data statistics****************/
+Winner of the Match:B241
+Final Score of the Macth:B241:2--0:B60
+Echange Number: 204
+Ace Number: 5
+Double Faute Number: 36
+Break Service Number: 19
+/****************Data statistics****************/
+
+Nivea2: B4 VS B176
+/****************Data statistics****************/
+Winner of the Match:B176
+Final Score of the Macth:B4:2--3:B176
+Echange Number: 2545
+Ace Number: 16
+Double Faute Number: 86
+Break Service Number: 58
+/****************Data statistics****************/
+
+Nivea2: B212 VS B2
+/****************Data statistics****************/
+Winner of the Match:B2
+Final Score of the Macth:B212:2--3:B2
+Echange Number: 1615
+Ace Number: 12
+Double Faute Number: 64
+Break Service Number: 51
+/****************Data statistics****************/
+
+Nivea2: B193 VS B48
+/****************Data statistics****************/
+Winner of the Match:B193
+Final Score of the Macth:B193:2--0:B48
+Echange Number: 228
+Ace Number: 2
+Double Faute Number: 33
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea2: B153 VS B143
+/****************Data statistics****************/
+Winner of the Match:B143
+Final Score of the Macth:B153:1--3:B143
+Echange Number: 1101
+Ace Number: 7
+Double Faute Number: 72
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea2: B30 VS B75
+/****************Data statistics****************/
+Winner of the Match:B75
+Final Score of the Macth:B30:1--2:B75
+Echange Number: 640
+Ace Number: 10
+Double Faute Number: 48
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea2: B155 VS B20
+/****************Data statistics****************/
+Winner of the Match:B20
+Final Score of the Macth:B155:1--2:B20
+Echange Number: 774
+Ace Number: 3
+Double Faute Number: 64
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea2: B109 VS B8
+/****************Data statistics****************/
+Winner of the Match:B109
+Final Score of the Macth:B109:2--0:B8
+Echange Number: 357
+Ace Number: 4
+Double Faute Number: 34
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea2: B101 VS B201
+/****************Data statistics****************/
+Winner of the Match:B101
+Final Score of the Macth:B101:2--1:B201
+Echange Number: 803
+Ace Number: 9
+Double Faute Number: 42
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea2: B242 VS B67
+/****************Data statistics****************/
+Winner of the Match:B242
+Final Score of the Macth:B242:3--1:B67
+Echange Number: 991
+Ace Number: 10
+Double Faute Number: 68
+Break Service Number: 42
+/****************Data statistics****************/
+
+Nivea2: B23 VS B189
+/****************Data statistics****************/
+Winner of the Match:B189
+Final Score of the Macth:B23:1--2:B189
+Echange Number: 802
+Ace Number: 6
+Double Faute Number: 41
+Break Service Number: 27
+/****************Data statistics****************/
+
+Nivea2: B175 VS B210
+/****************Data statistics****************/
+Winner of the Match:B210
+Final Score of the Macth:B175:1--2:B210
+Echange Number: 1060
+Ace Number: 5
+Double Faute Number: 45
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea2: B207 VS B70
+/****************Data statistics****************/
+Winner of the Match:B70
+Final Score of the Macth:B207:1--2:B70
+Echange Number: 915
+Ace Number: 6
+Double Faute Number: 51
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea2: B37 VS B79
+/****************Data statistics****************/
+Winner of the Match:B79
+Final Score of the Macth:B37:1--2:B79
+Echange Number: 600
+Ace Number: 6
+Double Faute Number: 54
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea2: B196 VS B217
+/****************Data statistics****************/
+Winner of the Match:B196
+Final Score of the Macth:B196:2--1:B217
+Echange Number: 629
+Ace Number: 8
+Double Faute Number: 46
+Break Service Number: 27
+/****************Data statistics****************/
+
+Nivea2: B137 VS B170
+/****************Data statistics****************/
+Winner of the Match:B137
+Final Score of the Macth:B137:2--1:B170
+Echange Number: 864
+Ace Number: 11
+Double Faute Number: 44
+Break Service Number: 32
+/****************Data statistics****************/
+
+Nivea2: B248 VS B91
+/****************Data statistics****************/
+Winner of the Match:B248
+Final Score of the Macth:B248:2--0:B91
+Echange Number: 305
+Ace Number: 9
+Double Faute Number: 38
+Break Service Number: 26
+/****************Data statistics****************/
+
+Nivea2: B206 VS B166
+/****************Data statistics****************/
+Winner of the Match:B206
+Final Score of the Macth:B206:2--0:B166
+Echange Number: 239
+Ace Number: 4
+Double Faute Number: 25
+Break Service Number: 17
+/****************Data statistics****************/
+
+Nivea2: B227 VS B174
+/****************Data statistics****************/
+Winner of the Match:B227
+Final Score of the Macth:B227:2--0:B174
+Echange Number: 427
+Ace Number: 4
+Double Faute Number: 30
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea2: B100 VS B24
+/****************Data statistics****************/
+Winner of the Match:B100
+Final Score of the Macth:B100:3--2:B24
+Echange Number: 3010
+Ace Number: 12
+Double Faute Number: 101
+Break Service Number: 61
+/****************Data statistics****************/
+
+Nivea3: B52 VS B51
+/****************Data statistics****************/
+Winner of the Match:B52
+Final Score of the Macth:B52:2--1:B51
+Echange Number: 1052
+Ace Number: 10
+Double Faute Number: 47
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea3: B6 VS B86
+/****************Data statistics****************/
+Winner of the Match:B86
+Final Score of the Macth:B6:1--2:B86
+Echange Number: 576
+Ace Number: 7
+Double Faute Number: 54
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea3: B100 VS B101
+/****************Data statistics****************/
+Winner of the Match:B100
+Final Score of the Macth:B100:3--2:B101
+Echange Number: 2511
+Ace Number: 12
+Double Faute Number: 100
+Break Service Number: 57
+/****************Data statistics****************/
+
+Nivea3: B189 VS B20
+/****************Data statistics****************/
+Winner of the Match:B20
+Final Score of the Macth:B189:1--2:B20
+Echange Number: 1011
+Ace Number: 8
+Double Faute Number: 51
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea3: B206 VS B29
+/****************Data statistics****************/
+Winner of the Match:B206
+Final Score of the Macth:B206:2--0:B29
+Echange Number: 350
+Ace Number: 4
+Double Faute Number: 28
+Break Service Number: 20
+/****************Data statistics****************/
+
+Nivea3: B219 VS B152
+/****************Data statistics****************/
+Winner of the Match:B219
+Final Score of the Macth:B219:2--0:B152
+Echange Number: 551
+Ace Number: 6
+Double Faute Number: 41
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea3: B97 VS B185
+/****************Data statistics****************/
+Winner of the Match:B97
+Final Score of the Macth:B97:3--0:B185
+Echange Number: 829
+Ace Number: 6
+Double Faute Number: 42
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea3: B190 VS B115
+/****************Data statistics****************/
+Winner of the Match:B115
+Final Score of the Macth:B190:1--3:B115
+Echange Number: 1378
+Ace Number: 10
+Double Faute Number: 72
+Break Service Number: 43
+/****************Data statistics****************/
+
+Nivea3: B84 VS B2
+/****************Data statistics****************/
+Winner of the Match:B2
+Final Score of the Macth:B84:0--2:B2
+Echange Number: 155
+Ace Number: 2
+Double Faute Number: 26
+Break Service Number: 18
+/****************Data statistics****************/
+
+Nivea3: B224 VS B145
+/****************Data statistics****************/
+Winner of the Match:B224
+Final Score of the Macth:B224:3--0:B145
+Echange Number: 751
+Ace Number: 8
+Double Faute Number: 47
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea3: B183 VS B202
+/****************Data statistics****************/
+Winner of the Match:B202
+Final Score of the Macth:B183:0--3:B202
+Echange Number: 529
+Ace Number: 12
+Double Faute Number: 58
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea3: B75 VS B176
+/****************Data statistics****************/
+Winner of the Match:B176
+Final Score of the Macth:B75:0--2:B176
+Echange Number: 282
+Ace Number: 6
+Double Faute Number: 30
+Break Service Number: 22
+/****************Data statistics****************/
+
+Nivea3: B98 VS B38
+/****************Data statistics****************/
+Winner of the Match:B38
+Final Score of the Macth:B98:1--2:B38
+Echange Number: 1030
+Ace Number: 10
+Double Faute Number: 49
+Break Service Number: 37
+/****************Data statistics****************/
+
+Nivea3: B210 VS B68
+/****************Data statistics****************/
+Winner of the Match:B210
+Final Score of the Macth:B210:3--0:B68
+Echange Number: 1119
+Ace Number: 7
+Double Faute Number: 55
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea3: B196 VS B229
+/****************Data statistics****************/
+Winner of the Match:B229
+Final Score of the Macth:B196:0--2:B229
+Echange Number: 171
+Ace Number: 2
+Double Faute Number: 39
+Break Service Number: 17
+/****************Data statistics****************/
+
+Nivea3: B138 VS B244
+/****************Data statistics****************/
+Winner of the Match:B138
+Final Score of the Macth:B138:2--0:B244
+Echange Number: 378
+Ace Number: 2
+Double Faute Number: 27
+Break Service Number: 18
+/****************Data statistics****************/
+
+Nivea3: B5 VS B13
+/****************Data statistics****************/
+Winner of the Match:B5
+Final Score of the Macth:B5:3--0:B13
+Echange Number: 957
+Ace Number: 8
+Double Faute Number: 45
+Break Service Number: 32
+/****************Data statistics****************/
+
+Nivea3: B184 VS B36
+/****************Data statistics****************/
+Winner of the Match:B36
+Final Score of the Macth:B184:1--3:B36
+Echange Number: 1680
+Ace Number: 12
+Double Faute Number: 63
+Break Service Number: 43
+/****************Data statistics****************/
+
+Nivea3: B58 VS B109
+/****************Data statistics****************/
+Winner of the Match:B109
+Final Score of the Macth:B58:2--3:B109
+Echange Number: 1860
+Ace Number: 12
+Double Faute Number: 91
+Break Service Number: 50
+/****************Data statistics****************/
+
+Nivea3: B94 VS B193
+/****************Data statistics****************/
+Winner of the Match:B94
+Final Score of the Macth:B94:3--0:B193
+Echange Number: 767
+Ace Number: 13
+Double Faute Number: 52
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea3: B211 VS B71
+/****************Data statistics****************/
+Winner of the Match:B211
+Final Score of the Macth:B211:2--1:B71
+Echange Number: 898
+Ace Number: 6
+Double Faute Number: 59
+Break Service Number: 33
+/****************Data statistics****************/
+
+Nivea3: B65 VS B234
+/****************Data statistics****************/
+Winner of the Match:B234
+Final Score of the Macth:B65:1--2:B234
+Echange Number: 1224
+Ace Number: 12
+Double Faute Number: 45
+Break Service Number: 34
+/****************Data statistics****************/
+
+Nivea3: B157 VS B254
+/****************Data statistics****************/
+Winner of the Match:B254
+Final Score of the Macth:B157:1--2:B254
+Echange Number: 1160
+Ace Number: 11
+Double Faute Number: 56
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea3: B70 VS B227
+/****************Data statistics****************/
+Winner of the Match:B70
+Final Score of the Macth:B70:3--1:B227
+Echange Number: 1065
+Ace Number: 9
+Double Faute Number: 61
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea3: B180 VS B239
+/****************Data statistics****************/
+Winner of the Match:B239
+Final Score of the Macth:B180:2--3:B239
+Echange Number: 2192
+Ace Number: 13
+Double Faute Number: 107
+Break Service Number: 50
+/****************Data statistics****************/
+
+Nivea3: B248 VS B242
+/****************Data statistics****************/
+Winner of the Match:B248
+Final Score of the Macth:B248:2--1:B242
+Echange Number: 1319
+Ace Number: 6
+Double Faute Number: 55
+Break Service Number: 32
+/****************Data statistics****************/
+
+Nivea3: B187 VS B232
+/****************Data statistics****************/
+Winner of the Match:B187
+Final Score of the Macth:B187:3--0:B232
+Echange Number: 668
+Ace Number: 5
+Double Faute Number: 45
+Break Service Number: 24
+/****************Data statistics****************/
+
+Nivea3: B154 VS B137
+/****************Data statistics****************/
+Winner of the Match:B154
+Final Score of the Macth:B154:3--1:B137
+Echange Number: 1451
+Ace Number: 8
+Double Faute Number: 65
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea3: B79 VS B149
+/****************Data statistics****************/
+Winner of the Match:B79
+Final Score of the Macth:B79:3--1:B149
+Echange Number: 1279
+Ace Number: 7
+Double Faute Number: 64
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea3: B237 VS B143
+/****************Data statistics****************/
+Winner of the Match:B143
+Final Score of the Macth:B237:1--2:B143
+Echange Number: 1133
+Ace Number: 12
+Double Faute Number: 56
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea3: B241 VS B238
+/****************Data statistics****************/
+Winner of the Match:B238
+Final Score of the Macth:B241:0--2:B238
+Echange Number: 480
+Ace Number: 6
+Double Faute Number: 34
+Break Service Number: 21
+/****************Data statistics****************/
+
+Nivea3: B0 VS B19
+/****************Data statistics****************/
+Winner of the Match:B0
+Final Score of the Macth:B0:3--0:B19
+Echange Number: 894
+Ace Number: 8
+Double Faute Number: 40
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea4: B94 VS B0
+/****************Data statistics****************/
+Winner of the Match:B94
+Final Score of the Macth:B94:3--1:B0
+Echange Number: 1560
+Ace Number: 13
+Double Faute Number: 77
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea4: B2 VS B211
+/****************Data statistics****************/
+Winner of the Match:B2
+Final Score of the Macth:B2:2--1:B211
+Echange Number: 1030
+Ace Number: 9
+Double Faute Number: 59
+Break Service Number: 37
+/****************Data statistics****************/
+
+Nivea4: B154 VS B38
+/****************Data statistics****************/
+Winner of the Match:B38
+Final Score of the Macth:B154:2--3:B38
+Echange Number: 2479
+Ace Number: 17
+Double Faute Number: 74
+Break Service Number: 52
+/****************Data statistics****************/
+
+Nivea4: B210 VS B239
+/****************Data statistics****************/
+Winner of the Match:B210
+Final Score of the Macth:B210:3--0:B239
+Echange Number: 788
+Ace Number: 8
+Double Faute Number: 57
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea4: B202 VS B138
+/****************Data statistics****************/
+Winner of the Match:B202
+Final Score of the Macth:B202:3--1:B138
+Echange Number: 1171
+Ace Number: 11
+Double Faute Number: 65
+Break Service Number: 40
+/****************Data statistics****************/
+
+Nivea4: B229 VS B219
+/****************Data statistics****************/
+Winner of the Match:B229
+Final Score of the Macth:B229:3--0:B219
+Echange Number: 940
+Ace Number: 8
+Double Faute Number: 59
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea4: B52 VS B238
+/****************Data statistics****************/
+Winner of the Match:B238
+Final Score of the Macth:B52:1--2:B238
+Echange Number: 565
+Ace Number: 8
+Double Faute Number: 46
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea4: B100 VS B206
+/****************Data statistics****************/
+Winner of the Match:B206
+Final Score of the Macth:B100:0--3:B206
+Echange Number: 680
+Ace Number: 9
+Double Faute Number: 35
+Break Service Number: 29
+/****************Data statistics****************/
+
+Nivea4: B20 VS B234
+/****************Data statistics****************/
+Winner of the Match:B20
+Final Score of the Macth:B20:2--0:B234
+Echange Number: 204
+Ace Number: 5
+Double Faute Number: 33
+Break Service Number: 19
+/****************Data statistics****************/
+
+Nivea4: B176 VS B70
+/****************Data statistics****************/
+Winner of the Match:B70
+Final Score of the Macth:B176:1--2:B70
+Echange Number: 1392
+Ace Number: 10
+Double Faute Number: 81
+Break Service Number: 42
+/****************Data statistics****************/
+
+Nivea4: B5 VS B254
+/****************Data statistics****************/
+Winner of the Match:B5
+Final Score of the Macth:B5:3--1:B254
+Echange Number: 1581
+Ace Number: 12
+Double Faute Number: 72
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea4: B187 VS B86
+/****************Data statistics****************/
+Winner of the Match:B86
+Final Score of the Macth:B187:2--3:B86
+Echange Number: 1969
+Ace Number: 12
+Double Faute Number: 76
+Break Service Number: 51
+/****************Data statistics****************/
+
+Nivea4: B143 VS B115
+/****************Data statistics****************/
+Winner of the Match:B143
+Final Score of the Macth:B143:3--2:B115
+Echange Number: 894
+Ace Number: 17
+Double Faute Number: 88
+Break Service Number: 47
+/****************Data statistics****************/
+
+Nivea4: B36 VS B97
+/****************Data statistics****************/
+Winner of the Match:B36
+Final Score of the Macth:B36:2--1:B97
+Echange Number: 970
+Ace Number: 10
+Double Faute Number: 53
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea4: B224 VS B79
+/****************Data statistics****************/
+Winner of the Match:B79
+Final Score of the Macth:B224:1--3:B79
+Echange Number: 979
+Ace Number: 6
+Double Faute Number: 41
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea4: B109 VS B248
+/****************Data statistics****************/
+Winner of the Match:B109
+Final Score of the Macth:B109:2--0:B248
+Echange Number: 293
+Ace Number: 3
+Double Faute Number: 31
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea5: B36 VS B20
+/****************Data statistics****************/
+Winner of the Match:B36
+Final Score of the Macth:B36:2--1:B20
+Echange Number: 1060
+Ace Number: 10
+Double Faute Number: 48
+Break Service Number: 35
+/****************Data statistics****************/
+
+Nivea5: B70 VS B238
+/****************Data statistics****************/
+Winner of the Match:B70
+Final Score of the Macth:B70:3--1:B238
+Echange Number: 949
+Ace Number: 9
+Double Faute Number: 69
+Break Service Number: 37
+/****************Data statistics****************/
+
+Nivea5: B79 VS B143
+/****************Data statistics****************/
+Winner of the Match:B79
+Final Score of the Macth:B79:3--1:B143
+Echange Number: 1149
+Ace Number: 11
+Double Faute Number: 56
+Break Service Number: 39
+/****************Data statistics****************/
+
+Nivea5: B38 VS B5
+/****************Data statistics****************/
+Winner of the Match:B38
+Final Score of the Macth:B38:3--2:B5
+Echange Number: 2093
+Ace Number: 10
+Double Faute Number: 75
+Break Service Number: 49
+/****************Data statistics****************/
+
+Nivea5: B94 VS B86
+/****************Data statistics****************/
+Winner of the Match:B86
+Final Score of the Macth:B94:1--3:B86
+Echange Number: 1378
+Ace Number: 9
+Double Faute Number: 68
+Break Service Number: 41
+/****************Data statistics****************/
+
+Nivea5: B229 VS B2
+/****************Data statistics****************/
+Winner of the Match:B2
+Final Score of the Macth:B229:2--3:B2
+Echange Number: 1992
+Ace Number: 15
+Double Faute Number: 96
+Break Service Number: 54
+/****************Data statistics****************/
+
+Nivea5: B206 VS B202
+/****************Data statistics****************/
+Winner of the Match:B202
+Final Score of the Macth:B206:1--2:B202
+Echange Number: 720
+Ace Number: 6
+Double Faute Number: 54
+Break Service Number: 30
+/****************Data statistics****************/
+
+Nivea5: B109 VS B210
+/****************Data statistics****************/
+Winner of the Match:B210
+Final Score of the Macth:B109:0--2:B210
+Echange Number: 411
+Ace Number: 5
+Double Faute Number: 38
+Break Service Number: 23
+/****************Data statistics****************/
+
+Nivea6: B70 VS B2
+/****************Data statistics****************/
+Winner of the Match:B70
+Final Score of the Macth:B70:3--2:B2
+Echange Number: 1996
+Ace Number: 10
+Double Faute Number: 79
+Break Service Number: 54
+/****************Data statistics****************/
+
+Nivea6: B210 VS B79
+/****************Data statistics****************/
+Winner of the Match:B210
+Final Score of the Macth:B210:3--0:B79
+Echange Number: 722
+Ace Number: 12
+Double Faute Number: 42
+Break Service Number: 31
+/****************Data statistics****************/
+
+Nivea6: B202 VS B36
+/****************Data statistics****************/
+Winner of the Match:B36
+Final Score of the Macth:B202:1--3:B36
+Echange Number: 1424
+Ace Number: 7
+Double Faute Number: 68
+Break Service Number: 44
+/****************Data statistics****************/
+
+Nivea6: B86 VS B38
+/****************Data statistics****************/
+Winner of the Match:B86
+Final Score of the Macth:B86:3--0:B38
+Echange Number: 818
+Ace Number: 12
+Double Faute Number: 56
+Break Service Number: 38
+/****************Data statistics****************/
+
+Nivea7: B36 VS B86
+/****************Data statistics****************/
+Winner of the Match:B36
+Final Score of the Macth:B36:2--1:B86
+Echange Number: 1465
+Ace Number: 8
+Double Faute Number: 63
+Break Service Number: 36
+/****************Data statistics****************/
+
+Nivea7: B210 VS B70
+/****************Data statistics****************/
+Winner of the Match:B210
+Final Score of the Macth:B210:3--1:B70
+Echange Number: 1145
+Ace Number: 11
+Double Faute Number: 81
+Break Service Number: 40
+/****************Data statistics****************/
+
+Nivea8: B210 VS B36
+/****************Data statistics****************/
+Winner of the Match:B210
+Final Score of the Macth:B210:3--1:B36
+Echange Number: 889
+Ace Number: 7
+Double Faute Number: 55
+Break Service Number: 32
+/****************Data statistics****************/
+
+Champion is: A210 B210
+
+
